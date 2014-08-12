@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "Shebang",
+      "description": "Run scripts based on their shebang line",
+      "author": "Christian Swinehart",
+      "homepage": "https://github.com/samizdatco/sublime-text-shebang",
+      "last_modified": "2012-08-10 16:00:00",
+      "platforms": {
+        "osx": [
+          {
+            "version": "0.9.2",
+            "url": "https://github.com/samizdatco/sublime-text-shebang/zipball/v0.9.2"
+          }
+        ],
+        "linux":[
+          {
+            "version": "0.9.2",
+            "url": "https://github.com/samizdatco/sublime-text-shebang/zipball/v0.9.2"
+          }
+        ]
+      }
+    }
+  ]
+}

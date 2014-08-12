@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": 1352195207,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Camaleon",
+		"Ciapre Color Scheme",
+		"Color Scheme - Frontend Delight",
+		"Cool Code Scheme",
+		"Djaneiro",
+		"Helios",
+		"IPython Integration",
+		"KeymapManager",
+		"Laravel Color Scheme",
+		"Mote",
+		"Open Recent Files",
+		"Package Control",
+		"Phix Color Scheme",
+		"Python Flake8 Lint",
+		"Shebang",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeRope",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

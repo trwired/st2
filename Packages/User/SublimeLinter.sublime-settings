@@ -1,0 +1,32 @@
+{
+    "javascript_linter": "",
+
+    /*
+        Selects the way the lines with errors or warnings are marked; "outline"
+        (default) draws outline boxes around the lines, "fill" fills the lines
+        with the outline color, and "none" disables all outline styles
+        (useful if "sublimelinter_gutter_marks" is set).
+    */
+    "sublimelinter_mark_style": "none",
+
+    /*
+        If true, lines with errors or warnings will be filled in with the
+        outline color.
+
+        This setting is DEPRECATED and will be ignored in future
+        versions. Use "sublimelinter_mark_style" instead. For backwards
+        compatibility reasons, this setting overrides "sublimelinter_mark_style"
+        if that one is set to "outline", but has no effect if it's set to "none".
+    */
+    "sublimelinter_fill_outlines": false,
+
+    // If true, lines with errors or warnings will have a gutter mark.
+    "sublimelinter_gutter_marks": true,
+
+    // If true, the find next/previous error commands will wrap.
+    "sublimelinter_wrap_find": true,
+
+    // If true, when the file is saved any errors will appear in a popup list
+    "sublimelinter_popup_errors_on_save": true
+}
+

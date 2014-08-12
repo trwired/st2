@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{% verbatim %}${1:$SELECTION}{% endverbatim %}]]></content>
+    <tabTrigger>ver</tabTrigger>
+    <scope>text.html.django</scope>
+    <description>verbatim</description>
+</snippet>

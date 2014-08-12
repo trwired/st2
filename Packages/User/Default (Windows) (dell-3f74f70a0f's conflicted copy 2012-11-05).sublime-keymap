@@ -1,0 +1,8 @@
+[
+    { "keys": ["ctrl+alt+e"], "command": "insert", "args": {"characters": "ę"} },
+    { "keys": ["shift+ctrl+alt+e"], "command": "insert", "args": {"characters": "Ę"} },
+    { "keys": ["ctrl+alt+n"], "command": "insert", "args": {"characters": "ń"} },
+    { "keys": ["shift+ctrl+alt+n"], "command": "insert", "args": {"characters": "Ń"} },
+    { "keys": ["ctrl+alt+l"], "command": "insert", "args": {"characters": "ł"} },
+    { "keys": ["shift+ctrl+alt+l"], "command": "insert", "args": {"characters": "Ł"} }
+]

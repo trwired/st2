@@ -1,0 +1,54 @@
+// Place all your custom presets in the `Packages/User/Camaleon.sublime-settings`
+// file.
+{
+    // List of user-configurable presets.
+    "camaleon": [
+        // Sun
+        [
+            // The first item specifies the UI theme for this preset, ...
+            "Soda Light.sublime-theme",
+            // ...the second item specifies the color scheme.
+            "Packages/Color Scheme - Default/Solarized (Light).tmTheme"
+        ],
+
+        [
+            "Soda Light.sublime-theme",
+            "Packages/Color Scheme - Default/Twilight.tmTheme"
+        ],
+
+        [
+            "Soda Light.sublime-theme",
+            "Packages/Color Scheme - Default/Monokai Bright.tmTheme"
+        ],
+
+        // Moon
+        [
+            "Soda Dark.sublime-theme",
+            "Packages/Color Scheme - Default/Monokai Bright.tmTheme"
+        ],
+
+        [
+            "Soda Dark.sublime-theme",
+            "Packages/Color Scheme - Default/Twilight.tmTheme"
+        ],
+                                            
+        [
+            "Soda Dark.sublime-theme",
+            "Packages/Color Scheme - Default/Solarized (Light).tmTheme"
+        ]
+
+        // Example presets to demonstrate the use of `null`. Instead of a string,
+        // you can also specify `null` for either or both items in the preset;
+        // in that case, the preset will not change the UI theme or color scheme,
+        // respectively. For example, this can be used to create presets that
+        // just cycle through color schemes without touching the UI theme at all:
+        /*[
+            null,
+            "Packages/Color Scheme - Default/Cobalt.tmTheme"
+        ],
+        [
+            null,
+            "Packages/Color Scheme - Default/Espresso Libre.tmTheme"
+        ]*/
+    ]
+}

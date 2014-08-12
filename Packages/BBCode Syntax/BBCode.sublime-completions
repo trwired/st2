@@ -1,0 +1,33 @@
+{
+  "scope": "source.bbcode - meta.tag, punctuation.definition.tag.begin",
+
+  "completions":
+  [
+    { "trigger": "b", "contents": "[b]$1[/b]" },
+    { "trigger": "bold", "contents": "[b]$1[/b]" },
+    { "trigger": "code", "contents": "[code${1:=lang}]$2[/code]" },
+    { "trigger": "color", "contents": "[color=$1]$2[/color]" },
+    { "trigger": "i", "contents": "[i]$1[/i]" },
+    { "trigger": "img", "contents": "[img]$1[/img]" },
+    { "trigger": "s", "contents": "[s]$1[/s]" },
+    { "trigger": "size", "contents": "[size=$1]$2[/size]" },
+    { "trigger": "sub", "contents": "[sub]$1[/sub]" },
+    { "trigger": "sup", "contents": "[sup]$1[/sup]" },
+    { "trigger": "twitter", "contents": "[twitter]${1:username}[/twitter]" },
+    { "trigger": "u", "contents": "[u]$1[/u]" },
+    { "trigger": "url", "contents": "[url=$1]$2[/url]" },
+    { "trigger": "quote", "contents": "[quote]$1[/quote]" },
+
+    // Colors
+    { "trigger": "red", "contents": "[color=red]$1[/color]" },
+    { "trigger": "orange", "contents": "[color=orange]$1[/color]" },
+    { "trigger": "yellow", "contents": "[color=yellow]$1[/color]" },
+    { "trigger": "green", "contents": "[color=green]$1[/color]" },
+    { "trigger": "blue", "contents": "[color=blue]$1[/color]" },
+    { "trigger": "indigo", "contents": "[color=indigo]$1[/color]" },
+    { "trigger": "violet", "contents": "[color=violet]$1[/color]" },
+    { "trigger": "purple", "contents": "[color=purple]$1[/color]" },
+    { "trigger": "white", "contents": "[color=white]$1[/color]" },
+    { "trigger": "black", "contents": "[color=black]$1[/color]" }
+  ]
+}

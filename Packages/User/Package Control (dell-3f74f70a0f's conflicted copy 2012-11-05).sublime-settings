@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": 1352112169,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Camaleon",
+		"Djaneiro",
+		"IPython Integration",
+		"KeymapManager",
+		"Mote",
+		"Open Recent Files",
+		"Package Control",
+		"Python Flake8 Lint",
+		"Shebang",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeRope",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

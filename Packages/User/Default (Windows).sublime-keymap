@@ -1,0 +1,21 @@
+[
+    { "keys": ["ctrl+alt+a"], "command": "insert", "args": {"characters": "ą"} },
+    { "keys": ["shift+ctrl+alt+a"], "command": "insert", "args": {"characters": "Ą"} },
+    { "keys": ["ctrl+alt+e"], "command": "insert", "args": {"characters": "ę"} },
+    { "keys": ["shift+ctrl+alt+e"], "command": "insert", "args": {"characters": "Ę"} },
+    { "keys": ["ctrl+alt+n"], "command": "insert", "args": {"characters": "ń"} },
+    { "keys": ["shift+ctrl+alt+n"], "command": "insert", "args": {"characters": "Ń"} },
+    { "keys": ["ctrl+alt+l"], "command": "insert", "args": {"characters": "ł"} },
+    { "keys": ["shift+ctrl+alt+l"], "command": "insert", "args": {"characters": "Ł"} },
+    { "keys": ["ctrl+alt+x"], "command": "insert", "args": {"characters": "ź"} },
+    { "keys": ["shift+ctrl+alt+x"], "command": "insert", "args": {"characters": "Ź"} },
+    {
+        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.5,
+            "activate_browser": true,
+            "browser_name" : "Google Chrome"
+        }
+    },
+    { "keys": ["f12"], "command": "reindent"}
+]

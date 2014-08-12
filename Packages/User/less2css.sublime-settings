@@ -1,0 +1,7 @@
+{
+	"autoCompile": true,
+	"lessBaseDir": "/Users/Igor/AppData/Roaming/npm",
+	"minify": true,
+	"outputDir": "./",
+	"showErrorWithWindow": false
+}

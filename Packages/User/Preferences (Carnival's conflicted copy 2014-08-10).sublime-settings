@@ -1,0 +1,64 @@
+{
+	"auto_complete": false,
+	"auto_complete_delay": 500,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"codeintel_live": false,
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"flatui_folder_icons": true,
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"zenburn",
+		"Vintage",
+		"Dayle Rees Color Schemes",
+		"SublimeOnSaveBuild",
+		"Theme - Phoenix",
+		"Emmet",
+		"Wrap Plus"
+	],
+	"indent_subsequent_lines": false,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"piatto_folder_icons": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "Piatto Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

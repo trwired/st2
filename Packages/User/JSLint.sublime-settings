@@ -1,0 +1,25 @@
+{
+    "cmd": [
+      "node",
+      "cpsm.js",
+      // tolerate missing 'use strict' pragma
+      "--sloppy",
+      // suggest an indent level of two spaces
+      "--indent", "2",
+      // assume node.js to predefine node globals
+      "--node",
+      // tolerate unfiltered for in
+      //"--forin",
+      // tolerate dangling _ in identifiers
+      "--nomen",
+      // tolerate many var statements per function
+      "--vars",
+      // tolerate ++ and --
+      "--plusplus",
+      // tolerate Douglas Crockford
+      "--stupid",
+      "--todo",
+      "$file"
+    ],
+    "filename_filter": "(\\.js|\\.json)$"
+}

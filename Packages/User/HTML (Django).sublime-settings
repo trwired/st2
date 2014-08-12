@@ -1,0 +1,11 @@
+{
+	"ensure_newline_at_eof_on_save": false,
+	"extensions":
+	[
+		"txt"
+	],
+	"rulers":
+	[
+	],
+	"tab_size": 4
+}
